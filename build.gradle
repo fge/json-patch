@@ -25,7 +25,7 @@ buildscript {
         }
     }
     dependencies {
-        classpath 'biz.aQute.bnd:biz.aQute.bnd.gradle:4.2.0'
+        classpath 'biz.aQute.bnd:biz.aQute.bnd.gradle:5.3.0'
         classpath(group: "org.springframework.build.gradle", name: "propdeps-plugin", version: "0.0.7");
     }
 };
